@@ -89,7 +89,7 @@ Currently diving deeper into **Neural Networks and Machine Learning**, while als
   <br><br>
   <a href="https://github.com/NotSwanand/ShopSmart">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotSwanand&repo=ShopSmart&theme=react&hide_border=true" />
-  </a>https://github.com/NotSwanand/Stock-Market-Prediction
+  </a>
   <br><br>
   <a href="https://github.com/NotSwanand/Stock-Market-Prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotSwanand&repo=Stock-Market-Prediction&theme=react&hide_border=true" />
