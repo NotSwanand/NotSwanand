@@ -1,4 +1,3 @@
-<!-- Banner (Optional): Replace with your own banner or animation -->
 <p align="center">
                                          
 <h1 align="center">Hey there 👋, I'm Swanand Bowalekar</h1>
