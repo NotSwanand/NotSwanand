@@ -91,7 +91,7 @@ Currently diving deeper into **Neural Networks and Machine Learning**, while als
   </a>
   <br><br>
   <a href="https://github.com/NotSwanand/Stock-Market-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotSwanand&repo=Stock-Market-Prediction&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotSwanand&repo=Stock-Market-Prediction&theme=react&hide_border=true&cache_seconds=1800" />
   </a>
 </p>
 
