@@ -116,7 +116,7 @@ Currently diving deeper into **Neural Networks and Machine Learning**, while als
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NotSwanand&theme=highcontrast&hide_border=true&ring=ff00ff&fire=00fff7&currStreakLabel=00fff7" />
+  <img src="https://streak-stats.demolab.com/?user=NotSwanand&theme=highcontrast&hide_border=true&ring=ff00ff&fire=00fff7&currStreakLabel=00fff7" />
 </p>
 
 ---
